@@ -1,0 +1,17 @@
+{
+  "name": "automationframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Gian Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.51.0",
+    "date-fns": "^4.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
